@@ -1,0 +1,163 @@
+body{
+background: url(../image/chilie.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250vh;
+    color: black;
+}
+#header{
+    background-color: blanchedalmond;
+    background-position: center;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding: 0; margin: 0;
+}
+nav{
+    width: 100%;
+    height: 40px;
+    margin: 0;padding: 0;
+    background: black;
+    color: white;
+    border-radius:15px 15px 0px 0px;
+} 
+
+#accueil{
+    margin:0;padding:0px;
+    font-size: 200%;
+    display: inline-block;
+    font-family:penultimate,monospace;
+}
+#principal{
+    padding: 0px;
+
+    width:100%;
+    height:800px;
+}
+#entete{
+    width: 100%;
+    height: 70px;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    margin: 0px;
+
+}
+#contenu{
+    width: 100%;
+    height:1350px;
+    padding-top: 60px;
+}
+#piedpage{
+    background-color: #484848;
+    width: 100%;
+    height: 210px;
+    margin-top: 850px;
+}
+li{
+    display: inline-block;
+    padding-top: 10px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: black;
+    border-bottom: 2px solid black;
+    margin-left: 50px;
+}
+ li :hover{
+     background-color: khaki;
+     padding: 8px;
+ }
+.pro{
+    margin-right: 50px;
+}
+
+ul{
+    margin: auto;
+}
+
+fieldset{
+    border: black solid 5px;
+}
+.w{
+    text-align: center;
+}
+legend h1 {
+    color: goldenrod;
+}
+h2{
+    color: black;  
+}
+img{
+    height: 350px;
+    width: 800px;
+    padding-left: 10%;
+    padding-top: 20px;
+    display: inline-block;
+}
+.k{
+    margin-top: 40px;
+}
+.h{
+    font-size: 80px;
+    padding-top: 50px;
+    color:rgb(0, 0, 0);
+    margin-right:10px;
+}
+.g{
+    padding-left: 4.5%;
+    padding-top: 20px;
+}
+.i,.m,.o,.t,.i,.p,.y{
+    width:300px ;
+    height:200px;
+}
+#dr
+{
+  width:25px;
+   height:25px;
+   margin-left: 20px;
+}
+ #tz
+{
+   width: 25px ;
+   height: 25px ;
+   margin-left: 8px;
+}
+
+#ps
+{
+   margin-left: 15px;
+   margin-top: 25px;
+   margin-bottom: 5px;
+   color: #fff;
+}
+
+
+#lettre
+{
+   margin-left: 900px;
+   color: #fff;
+}
+
+#message
+{
+    width: 25px ;
+   height: 25px ;
+   margin-left: 8px;
+   
+}
+#date
+{
+   text-align: center;
+   margin-top: 10px;
+   font-size: 17px;
+}
+#video
+{
+    width: 560;
+    height: 315;
+}
